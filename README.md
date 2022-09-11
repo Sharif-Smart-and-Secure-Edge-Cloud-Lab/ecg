@@ -9,7 +9,7 @@ Electrical signals are produced by contractions in the heart walls which drive e
 ## How can we use ECG signal?
 There are a lot of medical infotmation that we can understand from ECG signal and beside them there is a fact that ECG signal is unique for every person so we can use to identify people.
 
-**for more information you can check Introduction to ECG signal processing slide at this repository.**
+**for more information you can check _Introduction to ECG signal processing_ slide at this repository.**
 
 ## resources and papers
 
