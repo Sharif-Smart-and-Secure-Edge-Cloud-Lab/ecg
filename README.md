@@ -50,3 +50,11 @@ Papers :
 codes :
 1) https://github.com/c-labpl/qrs_detector
 2) https://github.com/topics/ecg-filtering
+
+
+###### valid resources(papers with code)
+
+[MIT_BIH database](https://physionet.org/content/mitdb/1.0.0/) is a valid reource of ECG signals with papers and codes about ECG signal processing that we currently are working on reproducing their work.
+
+[Papers and codes](https://paperswithcode.com/dataset/mit-bih-arrhythmia-database)
+
